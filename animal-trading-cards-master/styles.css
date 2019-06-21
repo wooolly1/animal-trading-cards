@@ -1,0 +1,43 @@
+/* add your CSS here */
+.edit {
+  font-style: italic;
+  margin: 5px;
+  padding : 5px;
+
+}
+ul {
+
+  margin : 5px;
+  padding : 5px ;
+  list-style: none;
+}
+li span {
+  font-weight: bold;
+}
+.box {
+  border: 1px solid black;
+  width : 320px;
+  margin: 5px;
+  padding : 5px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(255, 204, 204);
+
+}
+.box2{
+  border: 1px solid black;
+  width : 320px;
+  margin: 5px;
+  padding : 5px;
+  background-color: rgb(255,255,255)
+}
+.boxx {
+  margin:5px;
+  padding: 5px;
+}
+.image{
+  border: 1px solid black;
+  border: hidden;
+  margin: 5px ;
+  padding : 5px;
+}
